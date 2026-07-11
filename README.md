@@ -56,4 +56,4 @@ Si vous souhaitez faire référence à ce code :
 
 ---
 
-*Ce dépôt accompagne un mémoire de Master et est mis à disposition à des fins de transparence méthodologique et de reproductibilité.*
+*Ce dépôt accompagne un mémoire de Licence et est mis à disposition à des fins de transparence méthodologique et de reproductibilité.*
