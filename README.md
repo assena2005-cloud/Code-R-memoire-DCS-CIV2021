@@ -3,7 +3,7 @@
 Code source R utilisé dans le cadre d'un mémoire de Master portant sur les déterminants des dépenses catastrophiques de santé (DCS) des ménages ivoiriens, à partir des données de l'**Enquête Harmonisée sur les Conditions de Vie des Ménages (EHCVM) 2021-2022**.
 
 **Auteur :** Konan Assena Eliel
-**Cadre :** Mémoire de Master
+**Cadre :** Mémoire de Licence
 
 ---
 
@@ -52,7 +52,7 @@ Si vous disposez déjà de la base finale construite (`base_finale_DCS_CIV2021.c
 
 Si vous souhaitez faire référence à ce code :
 
-> Konan Assena Eliel (2026). *Code source — Déterminants des dépenses catastrophiques de santé des ménages en Côte d'Ivoire (EHCVM 2021-2022).* Mémoire de Master. Disponible sur GitHub : [lien du dépôt]
+> Konan Assena Eliel (2026). *Code source — Déterminants des dépenses catastrophiques de santé des ménages en Côte d'Ivoire (EHCVM 2021-2022).* Mémoire de Licence. Disponible sur GitHub : [lien du dépôt]
 
 ---
 
